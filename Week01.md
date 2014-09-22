@@ -51,8 +51,9 @@
 * [HLS Color Picker](http://hslpicker.com/)
 * [Color Picker](http://colorsnapper.com/)
 * [Mozilla Developer Network](https://developer.mozilla.org/en-US/)
+* [HEX vs RGBa vs HSLa](http://www.ironion.com/colors-on-the-web-rgb-vs-hex-vs-hsla/)
 * [HTML Properties](http://www.htmldog.com/reference/htmltags/)
 * [CSS Properties](http://www.htmldog.com/reference/cssproperties/)
-* [HEX vs RGBa vs HSLa](http://www.ironion.com/colors-on-the-web-rgb-vs-hex-vs-hsla/)
+
 
 ___The last two are a little out dates, but still give a good example of the list of elements/properties.___
