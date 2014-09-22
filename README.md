@@ -1,4 +1,4 @@
 Notes
 =====
 
-Class notes broken down by day
+Class links and notes broken down by week/day.
