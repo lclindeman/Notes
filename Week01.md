@@ -44,7 +44,6 @@
     - margin
     - padding
     - height / width
-    - font
 		- `margin: 0 auto` centering
 
 ### Links / Resources
