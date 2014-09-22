@@ -34,17 +34,17 @@
     * Overview of adding colors, styling fonts, etc.
     * Adding styling with id and class names
   * CSS Properties
-    - background
-    - color
-    - hex vs rgb vs rgba vs hsl
+	* background
+	* color
+	* hex vs rgb vs rgba vs hsl
       * HEX is the original, pretty simple and easy to use/remember
       * RGB/RGBA is newer and pretty well known. It supports transparency. Red, Green, Blue, Alpha
       * HSLA is the newest and is not fully supported so you need to be careful. Hue, Saturation, Lightness, Alpha
-    - display
-    - margin
-    - padding
-    - height / width
-		- `margin: 0 auto` centering
+			* display
+	* margin
+	* padding
+	* height / width
+	* `margin: 0 auto` centering
 
 ### Links / Resources
 
