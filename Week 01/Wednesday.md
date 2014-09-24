@@ -71,6 +71,6 @@ git config --global core.editor "atom --wait"
 
 ## Resources
 
-[Octocat Code From Homework](https://gist.github.com/twhitacre/8da056b0be14ae25a828)
-[Practice git](https://try.github.io/levels/1/challenges/1)
-[Official git Docs](http://git-scm.com/)
+* [Octocat Code From Homework](https://gist.github.com/twhitacre/8da056b0be14ae25a828)
+* [Practice git](https://try.github.io/levels/1/challenges/1)
+* [Official git Docs](http://git-scm.com/)
