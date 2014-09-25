@@ -4,6 +4,10 @@
   * Everything needs a `Readme.md` file
   * `git push` vs `git pull`
 
+> Remember, every repo should have a readme.md file.
+
+![alt text](http://f.cl.ly/items/1t3V1U0E0I2e0l0H0028/opsmall.gif "You get a readme!!!")
+
 ## Creating a NEW Project
 
 1. Create a new repo on Github.com
