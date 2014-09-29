@@ -144,6 +144,3 @@ Documentation - https://pages.github.com/
 Create a branch called `gh-pages`
 
 http://username.github.io/project-name
-
-
-## Resources
