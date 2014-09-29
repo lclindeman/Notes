@@ -1,10 +1,22 @@
 ## Computer Setup
 
-___Thanks [Jake](https://github.com/jacobthemyth)!___
+This will make sure you have the following installed:
+
+* Mavericks
+* XCode
+* Homebrew
+* git
+* Atom
+
+Also Checks that:
+
+* Atom is the default git editor
+* Github SSH
 
 ```sh
 $ curl -s https://gist.githubusercontent.com/twhitacre/24dd3b04f3265cd31fc1/raw/a6eaa774b4fc3682f7dcacc6ab1ec9fa203eeb55/check.sh | bash
 ```
+___Thanks [Jake](https://github.com/jacobthemyth)!___
 
 ## Homework Review
 
@@ -132,3 +144,6 @@ Documentation - https://pages.github.com/
 Create a branch called `gh-pages`
 
 http://username.github.io/project-name
+
+
+## Resources
