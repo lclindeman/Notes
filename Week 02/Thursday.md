@@ -98,3 +98,12 @@ $('.box1').click( function () {
 	$(this).removeClass('box'); // this removes the class of `box` from the element
 });
 ```
+
+## Resources
+- [jQuery Basics](http://jqfundamentals.com/chapter/jquery-basics)
+- [jQuery Manipulation](http://api.jquery.com/category/manipulation/)
+- [jQuery Attributes](http://api.jquery.com/category/attributes/)
+- [jQuery Selectors](http://api.jquery.com/category/selectors/)
+- [jQuery Events](http://api.jquery.com/category/events/)
+- [CSS Transitions](https://developer.mozilla.org/en-US/docs/Web/Guide/CSS/Using_CSS_transitions)
+- [More CSS Transitions](http://css-tricks.com/almanac/properties/t/transition/)
