@@ -157,3 +157,8 @@ var cool = thirdThing['cool']
 });
 // => [3]
 ```
+
+### Resources
+
+[More on Truthy vs Falsy](http://www.sitepoint.com/javascript-truthy-falsy/)
+
