@@ -79,5 +79,5 @@ console.log(locations); // ["Atlanta", "Kansas City", "Topeka", "Ft. Myers"]
 ## Resources
 
 * [Understanding Underscore Templates](http://www.bennadel.com/blog/2411-using-underscore-js-templates-to-render-html-partials.htm)
-	> side note... I'm in one of Ben Nadel's photos. First person to find me, I'll buy you a beer :)
+	... side note... I'm in one of Ben Nadel's photos. First person to find me, I'll buy you a beer :)
 * [Underscore.JS Templates](http://scriptble.com/2011/01/28/underscore-js-templates/)
