@@ -36,7 +36,6 @@ $('.container').prepend('<a href="http://google.com">Google</a>');
 
 * REST : Representational state transfer
 * REST is an architecture style.
-* A REST call is simply a GET HTTP request to the server
 
 
 ### Methods CRUD
