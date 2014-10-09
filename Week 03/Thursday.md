@@ -82,3 +82,30 @@ $.ajax( URL, {
    }
 })
 ```
+
+
+## Putting It All Together
+
+```html
+<div class="hero-unit">
+  <h1>'Allo, 'Allo!</h1>
+</div>
+
+<script type="text/template" id="user_stuff">
+  <img src="<%= avatar_url  %>" style="width:150px" />
+  <ul>
+    <li><%= name %></li>
+    <li>Company: <%= company %></li>
+    <li>Website: <%= blog %></li>
+  </ul>
+</script>
+```
+
+```js
+var template = $('#user_stuff').html();
+var render = _.template(template);
+
+$.getJSON('https://api.github.com/users/twhitacre').done( function (user) {
+	$('.hero-unit').append( render(user) );
+});
+```
