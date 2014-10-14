@@ -76,8 +76,17 @@ img {max-width:100;}
 [FitVids](http://fitvidsjs.com/)
 
 
-#### Retina
+#### [Retina](http://briancray.com/posts/detect-retina-displays-with-javascript)
 
 ```js
 window.devicePixelRatio
 ```
+
+
+## Resources
+
+* [The Article that Started it All](http://alistapart.com/article/responsive-web-design)
+* [Mobile First](http://www.html5rocks.com/en/mobile/responsivedesign/)
+* [Mobile First (another one)](http://zurb.com/word/mobile-first)
+* [Nice Examples](http://mediaqueri.es/)
+* [MDN Media Queries](https://developer.mozilla.org/en-US/docs/Web/Guide/CSS/Media_queries)
