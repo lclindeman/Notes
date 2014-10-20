@@ -60,4 +60,4 @@ Then run it: `$ node server.js`
 7. Deploy `$ git push heroku master`
 
 
-> [Deployment Directions](https://github.com/tiy-atlanta-js/Notes/blob/master/Heroku_Deployment.md)
+> [Deployment Directions](https://github.com/tiy-atlanta-js/Notes/blob/master/Specials/Heroku_Deployment.md)
