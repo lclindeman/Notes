@@ -125,4 +125,3 @@ console.log(accord.owner.name);
 
 * [Consctuctors](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object/constructor)
 * [Understanding Prototypes](http://yehudakatz.com/2011/08/12/understanding-prototypes-in-javascript/)
-* 
