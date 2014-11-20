@@ -8,6 +8,7 @@ This document is subject to change, but you'll be notified if it does.
 I would highly suggest that you take a scrum like approach to your final project. Plan everything out ahead of time.
 
 * Here is the [link](https://docs.google.com/spreadsheets/d/1EibN9FMRe6Wy_I2caa4klzBsk2r0xNUUxPtnGhBSFH8/edit#gid=0) to Andrew Faraca from SolTech.
+* You'll need to go to `File` -> `Make a Copy` to use this.
 
 
 ## Schedule
