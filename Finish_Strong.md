@@ -19,6 +19,7 @@ I would highly suggest that you take a scrum like approach to your final project
 * Monday
   * 9:00am Scrum Stand-up
   * 9:30 - Lecture: Angular, Firebase & Angularfire
+  * 1:00 - Company Narrative Workshop
 
 * Tuesday
   * 9:00 - Scrum Stand-up
@@ -36,10 +37,12 @@ I would highly suggest that you take a scrum like approach to your final project
 
 * Monday
   * 10:00 - Scrum Stand-up
+  * 1:00 - Job Talk
 
 * Tuesday
   * 10:00 - Scrum Stand-up
   * 10:30 - 1 Hour Lecture (Special Topic)
+  * 1:00 - 4:00 (groups & times TBD) - Cover Letter Workshops
 
 * Wednesday 
   * 10:00 - Scrum Stand-up
@@ -47,6 +50,7 @@ I would highly suggest that you take a scrum like approach to your final project
 
 * Thursday 
   * 10:00 - Scrum Stand-up
+  * 4:30 - 6:30 - Mock Interviews at State Farm
 
 * Friday
   * 10:00 - Scrum Stand-up
@@ -55,23 +59,24 @@ I would highly suggest that you take a scrum like approach to your final project
 #### Week 12
 
 * Monday
-	* 10:00 - Scrum Stand-up
+  * 10:00 - Scrum Stand-up
 
 * Tuesday
-	* 10:00 - Scrum Stand-up
+  * 10:00 - Scrum Stand-up
   * 10:30 - 1 Hour Lecture (Special Topic)
+  * 2:00 - Job Talk
 
 * Wednesday
-	* 10:00 - Scrum Stand-up
+  * 10:00 - Scrum Stand-up
   * 10:30 - 1 Hour Lecture (Special Topic)
   * 1:00 - Mandatory Final Project Reviews
 
 * Thursday
-	* 10:00 - Scrum Stand-up
-	* 1:00 - Optional Final Project Reviews
+  * 10:00 - Scrum Stand-up
+  * 1:00 - Optional Final Project Reviews
 
 * Friday
-	* Um, ... it's DEMO DAY!!!
+  * Um, ... it's DEMO DAY!!!
 
 
 
